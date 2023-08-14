@@ -1,7 +1,7 @@
 # virustotal-auto
 Script for checking hashes on VT
 
-$ Usage
+# Usage
 Использование:
 Запуск через консоль, параметры: 
 $hashes - файл с хешами
